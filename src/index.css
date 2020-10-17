@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.cmp1{
+  width: 350px;
+  height: 350px;
+  background-color: rgb(101, 101, 153) ;
+  margin-left: 100px;
+  display: flex;
+  flex-direction: column;
+}
